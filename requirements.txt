@@ -1,0 +1,14 @@
+datasets
+matplotlib
+pydantic
+requests
+colorama
+transformers
+pandas
+datasets
+torch
+matplotlib
+click
+numpy==1.26.4
+zstandard
+tqdm
