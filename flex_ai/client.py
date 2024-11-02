@@ -181,7 +181,7 @@ class FlexAI:
             print("\nTask monitoring interrupted by user.")
             return None
     
-    def create_multi_lora_endpoint(self, name:str, lora_checkpoints: List[LoraCheckpoint], compute: Literal["T4", "A100-40GB", "A100-80GB", "A10G", "A100-80GB", "L4"] = "A100-40GB", idle_timeout_seconds: Optional[int] = 60) -> str:
+    def create_multi_lora_endpoint(self, name:str, lora_checkpoints: List[LoraCheckpoint], compute: Literal["T4", "A100-40GB", "A100-80GB", "A10G", "A100-80GB", "L4"] = "A100-40GB", idle_timeout_seconds: int = 60) -> str:
         data = create_multi_lora_endpoint(self.api_key, name, lora_checkpoints, compute, idle_timeout_seconds)
         print("New Endpoint created successfully.")
         
