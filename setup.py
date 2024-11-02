@@ -10,7 +10,7 @@ def parse_requirements(filename):
 
 setup(
     name="flex_ai",
-    version="0.40",
+    version="0.41",
     packages=find_packages(),
     install_requires=parse_requirements('requirements.txt'),
     author="Ariel Cohen",
