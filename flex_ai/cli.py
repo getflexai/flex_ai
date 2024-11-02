@@ -1,8 +1,6 @@
 import os
 import click
 from flex_ai.client import FlexAI 
-from flex_ai.common.classes import EarlyStoppingConfig, LoraConfig
-from flex_ai.common.enums import DatasetType
 
 # Check if key exists
 if not os.environ.get("FLEX_AI_API_KEY"):

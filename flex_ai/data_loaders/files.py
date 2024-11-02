@@ -1,11 +1,5 @@
-import json
 import shutil
 import os
-
-# Read the .jsonl file and parse the data
-def read_jsonl(file_path: str):
-    with open(file_path, 'r') as file:
-        return [json.loads(line) for line in file]
     
 def resolve_path(id: str, file_path: str):
     if "{{id}}" in file_path:
