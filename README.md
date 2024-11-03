@@ -35,7 +35,7 @@ Finally , You dont have to handle installations, OOMs, GPUs setup, prompt templa
 
 ## ✨ Get Started
 
-1. Sign up at [app.getflex.ai](https://app.getflex.ai), New accounts come with 10$ for free,to get started :)
+1. Sign up at [app.getflex.ai](https://app.getflex.ai), New accounts come with 5$ for free,to get started :)
 2. Get your API key from Settings -> API Keys
 3. Start with our [documentation](https://docs.getflex.ai)
 4. Everything can be done without any code from our dashboard - [FlexAI Dashboard](https://app.getflex.ai)
