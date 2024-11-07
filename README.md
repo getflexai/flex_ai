@@ -2,13 +2,8 @@
 
 <a href="https://geflex.ai"><picture>
 
-<!-- <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/unslothai/unsloth/main/images/unsloth%20logo%20white%20text.png">
-<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/unslothai/unsloth/main/images/unsloth%20logo%20black%20text.png">
-<img alt="unsloth logo" src="https://raw.githubusercontent.com/unslothai/unsloth/main/images/unsloth%20logo%20black%20text.png" height="110" style="max-width: 100%;">
-</picture></a> -->
-
-<a target="_blank" href="https://colab.research.google.com/drive/1nSFRjrHpbz372h7W-2G7jmTuh_Dhiv9x?authuser=2#scrollTo=RiXPwLmHBOCV"><img src="https://raw.githubusercontent.com/unslothai/unsloth/main/images/start free finetune button.png" height="48"></a>
-<a target="_blank" href="https://getflexai.slack.com/"><img src="https://camo.githubusercontent.com/f37ad221182fdeaf33cdb835972fe8826ff503d779821c3533d820cf3630f79d/68747470733a2f2f636c6f7564626572727964622e6f72672f6173736574732f696d616765732f736c61636b5f627574746f6e2d37363130663963353164383230303961643931326164656431323463326438382e737667" height="48"></a>
+<a target="_blank" href="https://colab.research.google.com/drive/1nSFRjrHpbz372h7W-2G7jmTuh_Dhiv9x?authuser=2#scrollTo=RiXPwLmHBOCV"><img src="https://raw.githubusercontent.com/getflexai/flex_ai/main/images/start.png" height="48"></a>
+<a target="_blank" href="https://discord.gg/TTBxDCkT/"><img src="https://raw.githubusercontent.com/getflexai/flex_ai/main/images/Discord.png" height="48"></a>
 <a target="_blank" href="https://app.apollo.io/#/meet/ariel/30-min"><img src="https://raw.githubusercontent.com/getflexai/flex_ai/main/flex_ai/images/call-with-founders.png" height="48" style="border-radius: 15px;"></a>
 
 ### Lightweight Library to Finetune and Deploy All LLMs, no CUDA, no NVIDIA drivers, no OOMs, Multi-GPUs setup, No Prompt Templates !
