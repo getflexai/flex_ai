@@ -8,7 +8,7 @@
 
 ### Lightweight Library to Finetune and Deploy All LLMs, no CUDA, no NVIDIA drivers, no OOMs, Multi-GPUs setup, No Prompt Templates !
 
-![](https://i.ibb.co/sJ7RhGG/image-41.png)
+![](https://raw.githubusercontent.com/getflexai/flex_ai/main/images/line.png)
 
 </div>
 
