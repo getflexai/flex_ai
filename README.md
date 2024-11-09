@@ -4,7 +4,7 @@
 
 <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/getflexai/flex_ai/main/images/logo-white.png">
 <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/getflexai/flex_ai/main/images/logo-black.png">
-<img alt="unsloth logo" src="https://raw.githubusercontent.com/getflexai/flex_ai/main/images/logo-black.png" height="110" style="max-width: 100%;">
+<img alt="unsloth logo" src="https://raw.githubusercontent.com/getflexai/flex_ai/main/images/logo-black.png" height="400" style="max-width: 100%;">
 </picture></a>
 
 <a target="_blank" href="https://colab.research.google.com/drive/1nSFRjrHpbz372h7W-2G7jmTuh_Dhiv9x?authuser=2#scrollTo=RiXPwLmHBOCV"><img src="https://raw.githubusercontent.com/getflexai/flex_ai/main/images/start.png" height="48"></a>
