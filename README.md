@@ -1,4 +1,4 @@
-<div align="center">
+<div align="center" margin-bottom: 10px;>
 
 <a href="https://getflex.ai"><picture style="margin-bottom: 10px;">
 
