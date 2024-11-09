@@ -7,9 +7,9 @@
 <img alt="flexai logo" src="https://raw.githubusercontent.com/getflexai/flex_ai/main/images/logo-white.png" height="50" style="max-width: 100%;margin-bottom: 30px;">
 </picture></a>
 
-<a target="_blank" href="https://colab.research.google.com/drive/1nSFRjrHpbz372h7W-2G7jmTuh_Dhiv9x?authuser=2#scrollTo=RiXPwLmHBOCV"><img src="https://raw.githubusercontent.com/getflexai/flex_ai/main/images/start.png" height="48"></a>
-<a target="_blank" href="https://discord.gg/TTBxDCkT/"><img src="https://raw.githubusercontent.com/getflexai/flex_ai/main/images/Discord.png" height="48"></a>
-<a target="_blank" href="https://app.apollo.io/#/meet/ariel/30-min"><img src="https://raw.githubusercontent.com/getflexai/flex_ai/main/images/call-with-founders.png" height="48" style="border-radius: 15px;"></a>
+<a target="_blank" href="https://colab.research.google.com/drive/1nSFRjrHpbz372h7W-2G7jmTuh_Dhiv9x?authuser=2#scrollTo=RiXPwLmHBOCV"><img src="https://raw.githubusercontent.com/getflexai/flex_ai/main/images/start.png" height="48" style="margin-top: 10px;"></a>
+<a target="_blank" href="https://discord.gg/TTBxDCkT/"><img src="https://raw.githubusercontent.com/getflexai/flex_ai/main/images/Discord.png" height="48" style="margin-top: 10px;"></a>
+<a target="_blank" href="https://app.apollo.io/#/meet/ariel/30-min"><img src="https://raw.githubusercontent.com/getflexai/flex_ai/main/images/call-with-founders.png" height="48" style="border-radius: 15px;margin-top: 10px;"></a>
 
 ### Lightweight Library to Finetune and Deploy All LLMs, no CUDA, no NVIDIA drivers, no OOMs, Multi-GPUs setup, No Prompt Templates !
 
